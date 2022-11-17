@@ -42,10 +42,6 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
-		},
-		{
-			"Name": "FSR",
-			"Enabled": true
 		}
 	]
 }
